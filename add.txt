@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-add 5
-=======
-add 5
->>>>>>> dev
+change 1

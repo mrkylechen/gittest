@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-change 1
-=======
 add 5
 add dev change
->>>>>>> dev

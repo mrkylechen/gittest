@@ -1,7 +1,1 @@
 add 5
-add dev change 0
-<<<<<<< HEAD
-=======
-add main
-add sure main
->>>>>>> main
